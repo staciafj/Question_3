@@ -3,7 +3,7 @@ Objective
 The objective of this project is to apply JUnit and Java Code Coverage tools to thoroughly test and analyze a Java project hosted on GitHub. The primary goal is to achieve complete statement coverage for critical code modules. The final outcome will be a GitHub repository containing the test files and a coverage report, along with instructions on how to access and use them.
 
 GitHub Repository
-You can access the project repository on GitHub through the following link: Question_3 Repository
+You can access the project repository on GitHub through the following link: https://github.com/staciafj/Question_3
 
 Project Overview
 The project hosted on GitHub is a Java application, and our objective is to rigorously test it using JUnit and measure the code coverage using code coverage tools. The critical code modules, which may include if statements, switch-case statements, and for loops, will be the focus of our testing to ensure 100% statement coverage.
@@ -22,7 +22,7 @@ Identify Critical Code Modules: Review the code and identify the critical code m
 
 Write JUnit Test Cases: Create JUnit test classes to cover these critical code modules. Ensure that each test case tests a specific scenario and that assertions are used to verify the expected outcomes.
 
-Run JUnit Tests: Execute the JUnit test cases to ensure they pass and provide proper coverage.
+Run JUnit Tests: Execute the JUnit test cases to ensure they pass and provide the proper coverage.
 
 Integrate Code Coverage Tools: Integrate code coverage tools like JaCoCo or Cobertura into your project. These tools will generate code coverage reports.
 
